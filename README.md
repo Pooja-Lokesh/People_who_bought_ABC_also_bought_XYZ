@@ -27,4 +27,5 @@ cross-selling and up-selling
 - step2 : set a minimum support,confidence,lift
 - step3 : take all the subsets in transactions having higher support than minimum support 
 - step4 : take all teh rules of these subsets having higher confidence than minimum confidence
-- step5 : sort the rules by decreasing lift 
+- step5 : sort the rules by decreasing lift
+
