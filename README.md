@@ -10,11 +10,11 @@ cross-selling and up-selling
 
 ### Support : 
 - Support is an indication of how frequently the itemset appears in the dataset.
-- # times the product appears in the transaction / # total transactions
+- #times the product appears in the transaction / # total transactions
     
 ### Confidence : 
 - Confidence is an indication of how often the rule has been found to be true.
-- # transaction contains P1 and P2/ # transaction contains P1
+- #transaction contains P1 and P2/ # transaction contains P1
     
 ### Lift(P1 -> P2) : Confifence(P1 -> P2)/Support(P1)
 - lift is the rise in probability of having {P2} on the cart with the knowledge of {P1} being present over the probability of having    {P2} on the cart without any knowledge about presence of {P1}.
