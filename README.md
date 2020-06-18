@@ -10,7 +10,7 @@ cross-selling and up-selling
 
 ### Support : 
 - Support is an indication of how frequently the itemset appears in the dataset.
-- #times the product appears in the transaction / # total transactions
+- #times the P1 appears in the transaction / # total transactions
     
 ### Confidence : 
 - Confidence is an indication of how often the rule has been found to be true.
