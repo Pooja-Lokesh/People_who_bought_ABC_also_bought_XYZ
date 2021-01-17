@@ -16,7 +16,7 @@ cross-selling and up-selling
 - Confidence is an indication of how often the rule has been found to be true.
 - #transaction contains P1 and P2/ # transaction contains P1
     
-### Lift(P1 -> P2) : Confifence(P1 -> P2)/Support(P1)
+### Lift(P1 -> P2) : Confidence(P1 -> P2)/Support(P1)
 - lift is the rise in probability of having {P2} on the cart with the knowledge of {P1} being present over the probability of having    {P2} on the cart without any knowledge about presence of {P1}.
 - If the rule had a lift of 1, it would imply that the probability of occurrence of the antecedent and that of the consequent are       independent of each other. When two events are independent of each other, no rule can be drawn involving those two events.
 - If the lift is > 1, that lets us know the degree to which those two occurrences are dependent on one another, and makes those         rules potentially useful for predicting the consequent in future data sets.
